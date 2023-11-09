@@ -100,3 +100,35 @@ header {
     width: 487px;
     height: 487px;
 }
+
+.info-block-two {
+    width: 1040px;
+    height: 379px;
+}
+
+.info-block-two h1 {
+    width: 407px;
+    font-size: 48px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.info-block-two ul {
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.info-block-two ul li {
+    margin-bottom: 20px;
+}
+
+.textblock2 {
+    position: relative;
+    left: 600px;
+    bottom: 330px;
+}
+
+.info-block-two .banner2 img {
+    width: 480px;
+    height: 379px;
+}
