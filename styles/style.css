@@ -44,4 +44,59 @@ header {
     background-color: #C24914;
     margin-top: 40px;
     font-size: 20px;
+    cursor: pointer;
+}
+
+.wrapper {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.info-block-one {
+    width: 1080px;
+    height: 487px;
+}
+
+.info-block-one h1, p, button {
+    margin-bottom: 35px;
+}
+
+.info-block-one h1 {
+    width: 428px;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.info-block-one p {
+    width: 550px;
+    color: rgba(0, 0, 0, 0.46);
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.info-block-one button {
+    width: 200px;
+    height: 44px;
+    border-radius: 10px;
+    background-color: #682C0E;
+    border: none;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.textblock {
+    margin-top: 140px;
+}
+
+.info-block-one .banner {
+    position: relative;
+    left: 550px;
+    bottom: 380px;
+}
+
+.info-block-one .banner img {
+    width: 487px;
+    height: 487px;
 }
