@@ -132,3 +132,25 @@ header {
     width: 480px;
     height: 379px;
 }
+
+.info-block-three {
+    width: 1060.314px;
+    margin-top: 230px;
+}
+
+.info-block-three h1 {
+    width: 530px;
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.info-block-three .banner3 {
+    position: relative;
+    left: 550px;
+    bottom: 230px;
+}
+
+.info-block-three .banner3 img {
+    width: 439.314px;
+    height: 292.642px;
+}
